@@ -8,8 +8,6 @@ function App() {
       <p>This is also visible!</p>
       <ExpenseItem></ExpenseItem>
       <ExpenseItem></ExpenseItem>
-
-
     </div>
   );
 }
